@@ -1,4 +1,4 @@
-# 🚀 MeshPay – Offline UPI Settlement Network
+# 🚀 Offline UPI Settlement Network
 
 A Spring Boot based simulation of a **secure offline UPI payment system** where encrypted payment packets travel through a Bluetooth Mesh-like network and are eventually delivered to the backend by internet-enabled bridge devices.
 
