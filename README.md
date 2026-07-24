@@ -98,14 +98,19 @@ The project demonstrates concepts used in real-world distributed payment systems
 
 | Technology | Purpose |
 |------------|----------|
-| Java 17 | Core Language |
-| Spring Boot 3 | Backend Framework |
-| Spring Data JPA | ORM |
-| Hibernate | Persistence |
-| H2 Database | In-Memory Database |
-| Maven | Dependency Management |
-| Thymeleaf | Dashboard UI |
-| JUnit 5 | Testing |
+| Java 21 | Core language |
+| Spring Boot 4.0.6 | Backend framework and embedded web server |
+| Spring Web MVC | REST API and dashboard routing |
+| Spring Data JPA | Repository and ORM integration |
+| Hibernate | Persistence provider |
+| H2 Database | In-memory demo database |
+| React 18 | Interactive dashboard UI |
+| CSS3 | Responsive dashboard styling |
+| Thymeleaf | Server-rendered dashboard shell |
+| WebJars | Local React and ReactDOM asset delivery |
+| Maven | Dependency management and build tooling |
+| Lombok | Model and service boilerplate generation |
+| JUnit 5 | Automated testing |
 | RSA-2048 | Public Key Encryption |
 | AES-256-GCM | Authenticated Encryption |
 | ConcurrentHashMap | Idempotency Cache |
